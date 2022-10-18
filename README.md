@@ -77,3 +77,13 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulolealsd&theme=dracula" alt="paulolealsd" />
 </p>
+
+------------------------------------------------------------------------------------------------------
+
+<!-- Cobrinha - Little Snake -->
+<div> 
+ </br></br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
