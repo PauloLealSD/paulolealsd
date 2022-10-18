@@ -3,25 +3,27 @@
 
 <!-- followers counter -->
 <p align="center"> 
-  <!-- <img src="https://komarev.com/ghpvc/?username=paulolealsd&label=Profile%20views&color=0e75b6&style=flat" alt="paulolealsd" />  -->
+  <img src="https://komarev.com/ghpvc/?username=paulolealsd&label=Profile%20views&color=0e75b6&style=flat" alt="paulolealsd" />
 </p>
 
 <!-- trophies -->
 <p align="center" >
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" />
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" /> </a>
 </p>
 
+  <!-- Quick Description -->
+- 🌱 I’m currently learning **Node & React**
+  
 - 🔭 I’m currently working on **my skills with frontend**
 
-- 🌱 I’m currently learning **Node & React**
+- 📚 I'm coursing Analysis and Systems Development at [UniLaSalle](https://www.unilasalle.edu.br/) 
 
 - 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD)
 
-- 📫 How to reach me **pauloterresleal@gmail.com**
+- 📫 How to reach me: paulo.leal@rede.ulbra.br
 
-- ⚡ Fun facts **gamer, VR entusiasthic, debatable cinephile, geek**
+- ⚡ Fun facts: gamer, VR entusiasthic, debatable cinephile, geek
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -49,7 +51,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -73,4 +75,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulolealsd&show_icons=true&locale=en&theme=dracula" alt="paulolealsd" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulolealsd&theme=dracula" alt="paulolealsd" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulolealsd&theme=dracula" alt="paulolealsd" />
+</p>
