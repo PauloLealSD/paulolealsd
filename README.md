@@ -3,13 +3,13 @@
 
 <!-- followers counter -->
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=paulolealsd&label=Profile%20views&color=0e75b6&style=flat" alt="paulolealsd" /> 
+  <!-- <img src="https://komarev.com/ghpvc/?username=paulolealsd&label=Profile%20views&color=0e75b6&style=flat" alt="paulolealsd" />  -->
 </p>
 
 <!-- trophies -->
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits, Followers, Repositories, Stars">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula" alt="paulolealsd" />
+<p align="center" >
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" />
   </a>
 </p>
 
