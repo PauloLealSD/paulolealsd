@@ -6,12 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=paulolealsd&label=Profile%20views&color=0e75b6&style=flat" alt="paulolealsd" />
 </p>
 
-<!-- trophies -->
-<p align="center" >
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
-    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" /> </a>
-</p>
-
+<hr>
   <!-- Quick Description -->
 - 🌱 I’m currently learning **Node & React**
   
@@ -31,6 +26,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pauloterresleal/" height="30" width="40" /> </a>
 </p>
 
+<hr>
 <!--Icons -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -66,6 +62,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+<hr>
+<!-- trophies -->
+<p align="center" >
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma">
+    <img src="https://github-profile-trophy.vercel.app/?username=paulolealsd&theme=dracula&margin-w=8-ma&title=Commits,Followers,Repositories,Stars&row=2&column=4" alt="paulolealsd" /> </a>
+</p>
+
 <!--github api cards -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulolealsd&show_icons=true&locale=en&layout=compact&theme=dracula" alt="paulolealsd" />
@@ -77,10 +80,13 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulolealsd&theme=dracula" alt="paulolealsd" />
 </p>
+
+<hr>
 <!-- Cobrinha - Little Snake -->
-<div> 
- </br></br>
+<div align="center"> 
  
   ![Snake animation](https://github.com/paulolealsd/paulolealsd/blob/output/github-contribution-grid-snake.svg)
  
+  <!-- o dia que minhas contribuições forem mais ativas eu habilito isso -->
+  <!-- <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=paulolealsd&theme=dracula"/> -->
 </div>
