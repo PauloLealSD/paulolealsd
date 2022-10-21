@@ -8,7 +8,8 @@
 
 <hr>
   <!-- Quick Description -->
-- 🌱 I’m currently learning **Node & React**
+  
+- 🌱 I’m currently learning **Typescript & React**
   
 - 🔭 I’m currently working on **my skills with frontend**
 
@@ -16,15 +17,21 @@
 
 - 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD)
 
-- 📫 How to reach me: paulo.leal@rede.ulbra.br
-
 - ⚡ Fun facts: gamer, VR entusiasthic, debatable cinephile, geek
 
+- 📫 How to reach me: 
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloterresleal/)](https://www.linkedin.com/in/pauloterresleal/) 
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Paulo Leal Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.leal@rede.ulbra.br)](mailto:paulo.leal@rede.ulbra.br)
+&nbsp;
+
+<!-- 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/pauloterresleal/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pauloterresleal/" height="30" width="40" /> </a>
 </p>
+-->
 
 <hr>
 <!--Icons -->
