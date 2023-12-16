@@ -9,13 +9,13 @@
 <hr>
   <!-- Quick Description -->
   
-- 🌱 I’m currently learning **Typescript & React**
+- 🌱 I’m currently sharping my skills with **Typescript & React** 
   
-- 🔭 I’m currently working on **my skills with frontend**
+- 🔭 I’m currently working on **developing a platform to monitor the Health and Medical Hystory the User or family Member**
 
 - 📚 I'm coursing Analysis and Systems Development at [UniLaSalle](https://www.unilasalle.edu.br/) 
 
-- 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD)
+- 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD) (update pending)
 
 - ⚡ Fun facts: gamer, VR entusiasthic, debatable cinephile, geek
 
