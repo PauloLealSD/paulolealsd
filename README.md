@@ -90,10 +90,10 @@
 
 <hr>
 <!-- Cobrinha - Little Snake -->
-<div align="center"> 
+<!-- <div align="center"> -->
  
   ![Snake animation](https://github.com/paulolealsd/paulolealsd/blob/output/github-contribution-grid-snake.svg)
  
   <!-- o dia que minhas contribuições forem mais ativas eu habilito isso -->
   <!-- <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=paulolealsd&theme=dracula"/> -->
-</div>
+<!-- </div> -->
