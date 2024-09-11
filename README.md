@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulo Leal</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">Software Developer from Brazil</h3>
 
 <!-- followers counter -->
 <p align="center"> 
@@ -15,9 +15,9 @@
 
 <!-- - 📚 I'm coursing Analysis and Systems Development at [UniLaSalle](https://www.unilasalle.edu.br/) -->
 
-- 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD) (update pending)
+- 👨‍💻 All of my projects are available at [github.com/PauloLealSD](https://github.com/PauloLealSD) (porttfolio website pending)
 
-- ⚡ Fun facts: gamer, VR entusiasthic, debatable cinephile, geek
+- ⚡ Fun facts: gamer, VR entusiasthic, debatable cinephile, geek, AI tinker
 
 - 📫 How to reach me: 
 [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloterresleal/)](https://www.linkedin.com/in/pauloterresleal/) 
